@@ -1,0 +1,16 @@
+test1\network_data.o: ..\X-CUBE-AI\App\network_data.c
+test1\network_data.o: ..\X-CUBE-AI\App\network_data.h
+test1\network_data.o: ..\X-CUBE-AI\App\network_config.h
+test1\network_data.o: ..\X-CUBE-AI\App\network_data_params.h
+test1\network_data.o: ../Middlewares/ST/AI/Inc/ai_platform.h
+test1\network_data.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+test1\network_data.o: F:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+test1\network_data.o: F:\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+test1\network_data.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+test1\network_data.o: ../Middlewares/ST/AI/Inc/ai_platform_interface.h
+test1\network_data.o: ../Middlewares/ST/AI/Inc/datatypes_network.h
+test1\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes.h
+test1\network_data.o: F:\Keil\ARM\ARMCC\Bin\..\include\string.h
+test1\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes_format.h
+test1\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes_defines.h
+test1\network_data.o: ../Middlewares/ST/AI/Inc/formats_list.h
